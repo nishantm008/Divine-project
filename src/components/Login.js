@@ -89,11 +89,11 @@ export default function Login() {
     const classes = useStyles();
     const history = useHistory()
     const onRegistration = () => {
-        history.push('/register')
+        history.push('/divine-project/register')
     }
 
     const onSuccess = (res) => {
-        history.push('/home')
+        history.push('/divine-project/home')
         console.log('Login Success: currentUser:', res.profileObj);
         alert(
             `Logged in successfully welcome ${res.profileObj.name}.`

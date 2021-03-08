@@ -145,7 +145,7 @@ export default function Home() {
     };
 
     const onSuccessLogout = () => {
-        history.push('/')
+        history.push('/divine-project')
         console.log('Logout made successfully');
         alert('Logout made successfully ✌');
     };
