@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/divine-project/static/css/main.2ae47eeb.chunk.css",
-    "main.js": "/divine-project/static/js/main.5b2fdcfb.chunk.js",
-    "main.js.map": "/divine-project/static/js/main.5b2fdcfb.chunk.js.map",
+    "main.js": "/divine-project/static/js/main.8318691e.chunk.js",
+    "main.js.map": "/divine-project/static/js/main.8318691e.chunk.js.map",
     "runtime-main.js": "/divine-project/static/js/runtime-main.c566f195.js",
     "runtime-main.js.map": "/divine-project/static/js/runtime-main.c566f195.js.map",
     "static/js/2.5e51c88e.chunk.js": "/divine-project/static/js/2.5e51c88e.chunk.js",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.c566f195.js",
     "static/js/2.5e51c88e.chunk.js",
     "static/css/main.2ae47eeb.chunk.css",
-    "static/js/main.5b2fdcfb.chunk.js"
+    "static/js/main.8318691e.chunk.js"
   ]
 }

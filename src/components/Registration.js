@@ -83,7 +83,7 @@ export default function Signup() {
     const classes = useStyles();
     const history = useHistory()
     const onLogin = () => {
-        history.push('/divine-project')
+        history.push('/divine-project/')
     }
 
     return (
