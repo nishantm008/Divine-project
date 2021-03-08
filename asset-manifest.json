@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/divine-project/static/css/main.2ae47eeb.chunk.css",
+    "main.js": "/divine-project/static/js/main.8e4081dc.chunk.js",
+    "main.js.map": "/divine-project/static/js/main.8e4081dc.chunk.js.map",
+    "runtime-main.js": "/divine-project/static/js/runtime-main.c566f195.js",
+    "runtime-main.js.map": "/divine-project/static/js/runtime-main.c566f195.js.map",
+    "static/js/2.5e51c88e.chunk.js": "/divine-project/static/js/2.5e51c88e.chunk.js",
+    "static/js/2.5e51c88e.chunk.js.map": "/divine-project/static/js/2.5e51c88e.chunk.js.map",
+    "static/js/3.ab72be51.chunk.js": "/divine-project/static/js/3.ab72be51.chunk.js",
+    "static/js/3.ab72be51.chunk.js.map": "/divine-project/static/js/3.ab72be51.chunk.js.map",
+    "index.html": "/divine-project/index.html",
+    "static/css/main.2ae47eeb.chunk.css.map": "/divine-project/static/css/main.2ae47eeb.chunk.css.map",
+    "static/js/2.5e51c88e.chunk.js.LICENSE.txt": "/divine-project/static/js/2.5e51c88e.chunk.js.LICENSE.txt",
+    "static/media/downArrow.b25eaea2.svg": "/divine-project/static/media/downArrow.b25eaea2.svg",
+    "static/media/facebookButton.cec34262.svg": "/divine-project/static/media/facebookButton.cec34262.svg",
+    "static/media/googleButton.8f16b98e.svg": "/divine-project/static/media/googleButton.8f16b98e.svg",
+    "static/media/lockIcon.3188ec71.svg": "/divine-project/static/media/lockIcon.3188ec71.svg",
+    "static/media/login.fb9b2ac2.jpg": "/divine-project/static/media/login.fb9b2ac2.jpg",
+    "static/media/registration.95ed14af.jpg": "/divine-project/static/media/registration.95ed14af.jpg",
+    "static/media/shopping1.4371117b.jpg": "/divine-project/static/media/shopping1.4371117b.jpg",
+    "static/media/upArrow.75472ea4.svg": "/divine-project/static/media/upArrow.75472ea4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c566f195.js",
+    "static/js/2.5e51c88e.chunk.js",
+    "static/css/main.2ae47eeb.chunk.css",
+    "static/js/main.8e4081dc.chunk.js"
+  ]
+}
